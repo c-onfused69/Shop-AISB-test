@@ -49,7 +49,7 @@ sup{
     position: absolute;
     top: 15%;
     background: #000;
-    color: #000;
+    color: #fff;
     border-radius: 50%;
     width: 20px;
     height: 20px;
@@ -172,6 +172,9 @@ header.scrolled{
     justify-content: space-between;
     position: relative;
     margin: 0 auto;
+}
+.logo{
+    width: 140px;
 }
 .navbar a{
     margin: 0 1rem;

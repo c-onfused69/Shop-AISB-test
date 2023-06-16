@@ -1,7 +1,7 @@
 <?php
     $db_name = 'mysqk:host=localhost;dbname=shop_db';
     $db_user = 'root';
-    $db_pass = '';
+    $db_pass = 'Nniloy888@1999#';
 
     $conn = new PDO($db_name, $db_user, $db_password);
 
@@ -14,4 +14,3 @@
         }
         return $randomString;
     }
-?>
